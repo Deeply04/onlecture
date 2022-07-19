@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 0;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+@font-face {
+    font-family: 'poppins-unilab';
+    src: url(../fonts/Poppins-Medium.ttf);
+}
+@font-face {
+    font-family: 'medium';
+    src: url(../fonts/Poppins-Medium.ttf);
+}
+@font-face {
+    font-family: 'italic';
+    src: url(../fonts/OpenSans-VariableFont_wdth\,wght.ttf);
+}
+li{
+    display: inline;
+}
+.pirveli{
+    margin-left: 537px;
+}
+.meore, .mesame{
+    margin-left: 66px;
+}
+header{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid black;
+    font-family: 'poppins-unilab';
+}
+.card{
+    width: 333px;
+    height: 487px;
+    border: 1px solid black;
+    padding: 11px;
+    display: inline-block;
+    font-family: 'poppins-unilab';
+}
+h1{
+    margin-top: 72px;
+    margin-left: 518px;
+    font-size: 24px;
+}
+section{
+    padding-top: 65px;
+}
+.satauri{
+    margin-top: 5px;
+}
+.ganmarteba{
+    margin-top: 18px;
+}
+.button{
+    margin-left: 230px;
+}
+.first{
+    margin-left: 126px;
+}
+.second{
+    margin-left: 112px;
+}
+.third{
+    margin-left: 98px;
+}
+img{
+    width: 100%;
+}
+.dasaxeleba{
+    margin-top: 112px;
+    margin-left: 609px;
+    font-size: 40px;
+    color: #7D0000;
+    font-family: 'medium';
+}
+.minaweri1{
+    margin-left: 206px;
+    margin-top: 132px;
+    display: inline-block;
+    font-size: 25px;
+    font-family: 'italic';
+    border-bottom: 1px solid black;
+}
+.minaweri2{
+    margin-left: 206px;
+    margin-top: 32px;
+    font-size: 25px;
+    font-family: 'medium';
+}
+.minaweri3{
+    margin-left: 206px;
+    margin-top: 32px;
+    display: inline-block;
+    font-size: 25px;
+    font-family: 'medium';
+}
+.minaweri4{
+    font-size: 25px;
+    margin-top: 118px;
+    margin-left: 175px;
+    width: 775px;
+    height: 205px;
+    font-family: 'medium';
+}
+.minaweri5{
+    font-size: 25px;
+    margin-left: 175px;
+    font-family: 'italic';
+}
+.footer1{
+    width: 263px;
+    height: 57px;
+    margin-left: 131px;
+    margin-top: 115px;
+    display: inline-block;
+    font-family: 'medium';
+}
+.footer2{
+    width: 263px;
+    height: 57px;
+    margin-left: 187px;
+    margin-top: 115px;
+    display: inline-block;
+    font-family: 'medium';
+
+}
+.footer3{
+    width: 263px;
+    height: 57px;
+    margin-left: 162px;
+    margin-top: 115px;
+    display: inline-block;
+    font-family: 'medium';
+}
